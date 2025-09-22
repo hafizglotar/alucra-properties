@@ -1,0 +1,28 @@
+# Laravel
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/.env
+/.idea
+/.vscode
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+*.log
+
+# Composer
+composer.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.sublime-workspace
+*.sublime-project
+
+# GitHub export-ignore for documentation files (optional)
+*.md export-ignore
+/.github export-ignore
